@@ -21,7 +21,7 @@ This course provides an introduction to the common programming languages used by
 
 To verify the certificates, click the images to follow the links.
 
-<p align="middle">
+<p align="middle" dir="auto">
   <a href="https://coursera.org/share/af653b38993fc47c9e025e295560b6ae"><img src="../src/certificate-module2.png" height="430"></a>
   <a href="https://www.credly.com/badges/221004c4-b777-4187-8429-918b5fab7bbe/public_url"><img src="../src/badge-module2.png" height="430"></a>
 </p>
