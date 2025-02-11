@@ -25,5 +25,5 @@ To verify the certificates, click the images to follow the links.
 
 <p align="middle">
   <a href="https://coursera.org/share/7920f4218e86d41d676bfd73475e9de8"><img src="../src/certificate-module1.png" height="430"></a>
-  <a href="https://www.credly.com/badges/1d77f0cd-3699-44b8-9cc8-03513b5378e2/public_url"><img src="../src/orientation-badge.png" height="430"></a>    
+  <a href="https://www.credly.com/badges/1d77f0cd-3699-44b8-9cc8-03513b5378e2/public_url"><img src="../src/badge-module1.png" height="430"></a>    
 </p>
