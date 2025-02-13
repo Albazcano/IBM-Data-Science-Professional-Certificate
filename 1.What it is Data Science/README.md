@@ -25,5 +25,5 @@ Data science is the field of gaining insights from data, often focusing on using
 To verify the certificates, click the images to follow the links.
 
 <p align="middle" dir="auto">
-<a href="https://coursera.org/share/7920f4218e86d41d676bfd73475e9de8"><img src="![Badge Module 1](https://github.com/Albazcano/IBM-Data-Science-Professional-Certificate/blob/main/1.%20What%20it%20is%20Data%20Science/badge-module1.png)"> </a>
+<img src="![Badge Module 1](https://github.com/Albazcano/IBM-Data-Science-Professional-Certificate/blob/main/1.%20What%20it%20is%20Data%20Science/badge-module1.png)">
 </p>
