@@ -18,7 +18,7 @@ This course provides an introduction to the common programming languages used by
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-<a href="https://coursera.org/share/7920f4218e86d41d676bfd73475e9de8"><img src="https://github.com/Albazcano/IBM-Data-Science-Professional-Certificate/raw/39b39dec72b0a4940534c1a88bed51f530b5b853/1.What%20it%20is%20Data%20Science/certificate-module1.png" height="430"></a>
-<a href="https://www.credly.com/badges/1d77f0cd-3699-44b8-9cc8-03513b5378e2/public_url"><img src="https://github.com/Albazcano/IBM-Data-Science-Professional-Certificate/raw/d2961b3c956d2a61c983af5998d22c2b196d73c5/1.What%20it%20is%20Data%20Science/badge-module1.png" height="430">
+<a href="https://coursera.org/share/af653b38993fc47c9e025e295560b6ae"><img src="https://github.com/Albazcano/IBM-Data-Science-Professional-Certificate/raw/a7127c5b8cf1efe4cab5f8c66c2b279b75925f50/2.%20Tools%20for%20Data%20Science/certificate-module2.png" height="430"></a>
+<a href="https://www.credly.com/badges/221004c4-b777-4187-8429-918b5fab7bbe/public_url"><img src="https://github.com/Albazcano/IBM-Data-Science-Professional-Certificate/raw/a7127c5b8cf1efe4cab5f8c66c2b279b75925f50/2.%20Tools%20for%20Data%20Science/badge-module2.png" height="430">
 </a>
 </p>
