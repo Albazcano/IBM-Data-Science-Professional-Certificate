@@ -46,13 +46,13 @@ The following Python libraries were used throughout the certification: <br>
 </p>
 
 ## 📂 Projects
-- [Extracting and Visualizing Stock Data](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Final%20Assignment.ipynb)
-- [Chicago Census, Crime, and School Data Analysis using SQL](https://github.com/Albazcano/IBM-Data-Science-Professional-Certificate/blob/main/2.%20Tools%20for%20Data%20Science/README.md)
-- [House Price Predictions](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Final%20Assignment%20-%20House%20Price%20Predictions.ipynb)
-- [US Domestic Airline Flights Performance Dashboard](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/tree/main/08.%20Data%20Visualization%20with%20Python/Final%20Assignment)
-- [Best Classifier Model](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Final%20Project/Machine%20Learning%20with%20Python%20-%20The%20Best%20Classifier.ipynb)
-- [Predicting Successful Rocket Landings](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone)
-- [Dashboard and Interactive Map](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone/04.%20Interactive%20Visual%20Analytics)
+- [Extracting and Visualizing Stock Data]()
+- [Chicago Census, Crime, and School Data Analysis using SQL]()
+- [House Price Predictions]()
+- [US Domestic Airline Flights Performance Dashboard]()
+- [Best Classifier Model]()
+- [Predicting Successful Rocket Landings]()
+- [Dashboard and Interactive Map]()
 
 ## 🏆 Certificates 
 To verify the certificates, click the images to follow the links.
