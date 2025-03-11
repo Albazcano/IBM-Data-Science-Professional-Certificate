@@ -12,7 +12,6 @@ This course introduces data science methodologies, including the IBM Foundationa
 - An understanding of the importance of methodologies in data science.
 
 ## 🏆 Certificates 
-<<<<<<< HEAD
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
@@ -20,6 +19,4 @@ To verify the certificates, click the images to follow the links.
 <a href="https://www.credly.com/badges/ff8ec380-f475-4e59-9d19-68f72b0267d5/public_url"><img src="https://github.com/user-attachments/assets/c7ee8b42-3b0d-4192-9054-c7be9e4c8553" height="430">
 </a>
 </p>
-=======
-To verify the certificates, click the images and follow the links.
->>>>>>> 7e8c7dfb10ba6cbdaa49b5f66d127f6f03458008
+
