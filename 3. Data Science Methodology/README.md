@@ -13,3 +13,9 @@ This course introduces data science methodologies, including the IBM Foundationa
 
 ## 🏆 Certificates 
 To verify the certificates, click the images to follow the links.
+
+<p align="middle">
+<a href="https://coursera.org/share/83d143a53c83fa01865843fe760d135e"><img src="https://github.com/user-attachments/assets/4973c5ab-ef96-4932-a164-60fae17073ef" height="430"></a>
+<a href="https://www.credly.com/badges/ff8ec380-f475-4e59-9d19-68f72b0267d5/public_url"><img src="https://github.com/user-attachments/assets/c7ee8b42-3b0d-4192-9054-c7be9e4c8553" height="430">
+</a>
+</p>
